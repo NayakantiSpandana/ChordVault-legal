@@ -1,5 +1,5 @@
 # ChordVault Privacy Policy  
-**Last Updated:** 09/01/2025  
+**Last Updated:** September 1, 2025
 
 ChordVault (“we,” “our,” or “us”) values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application (“App”).  
 
