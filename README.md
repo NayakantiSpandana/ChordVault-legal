@@ -1,4 +1,3 @@
-# ChordVault Legal
 
 Welcome to the **ChordVault-legal** repository.  
 This repository contains public legal documents and policies for the ChordVault mobile application.  
