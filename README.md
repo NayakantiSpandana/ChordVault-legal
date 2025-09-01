@@ -8,6 +8,7 @@ This repository contains public legal documents and policies for the ChordVault 
 ## Policies
 
 - **[Privacy Policy](privacy-policy.md)** – Learn how we collect, use, and protect your data.
+- **[Terms of Service](terms-of-service.md)** – Understand the rules and conditions for using ChordVault.
 
 ---
 
