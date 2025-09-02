@@ -1,4 +1,4 @@
-# ChordVault-legal – Terms of Service
+# ChordVault Terms of Service
 
 **Effective Date:** September 1, 2025  
 
