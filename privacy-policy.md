@@ -6,9 +6,9 @@ ChordVault (“we,” “our,” or “us”) values your privacy. This Privacy 
 ---
 
 ## 1. Information We Collect
-- **Email Address** – Used to create and manage your account.  
+- **Email Address** – Used to create and manage your account. We retain your email address for as long as your account is active. If you delete your account, your email address and associated data are permanently removed from our systems within 30 days.  
 - **Password** – Securely stored using AWS Cognito. We do not have access to your plain-text password.  
-- **Profile Picture (optional)** – If you upload a profile picture, it is stored securely on AWS S3.  
+- **Profile Picture (optional)** – If you upload a profile picture, it is stored securely on AWS S3 and is permanently deleted if you delete your account.
 - **Usage Data** – Anonymous analytics data (e.g., app usage statistics, crash reports, device type) to improve app performance.  
 
 ---
@@ -34,14 +34,21 @@ ChordVault (“we,” “our,” or “us”) values your privacy. This Privacy 
 
 ---
 
-## 5. Your Rights
-- You may request to delete your account and associated data at any time.  
-- You can do this directly in the app or by contacting us at: **mobile.user.help@gmail.com**  
-- After your request, your personal data will be deleted within 30 days (unless legally required to retain it).  
+## 5. Data Retention
+- We retain personal data (such as your email address and profile picture) only as long as your account is active.
+- If you delete your account, all associated personal data will be permanently removed from our systems within 30 days, unless we are legally required to retain it for a longer period.
+- Usage data collected for analytics may be retained in anonymous form to improve app performance.
 
 ---
 
-## 6. Changes to This Policy
+## 6. Your Rights
+- You may request to delete your account and associated data at any time.  
+- You can do this directly in the app or by contacting us at: **mobile.user.help@gmail.com**  
+- Once we receive your request, your personal data (including email address and profile picture) will be permanently deleted within 30 days, unless we are legally required to retain it.
+
+---
+
+## 7. Changes to This Policy
 We may update this Privacy Policy from time to time. Updates will be posted in this document and inside the app.  
 
 ---
