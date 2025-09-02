@@ -6,9 +6,9 @@ ChordVault (“we,” “our,” or “us”) values your privacy. This Privacy 
 ---
 
 ## 1. Information We Collect
-- **Email Address** – Used to create and manage your account. We retain your email address for as long as your account is active. If you delete your account, your email address and associated data are permanently removed from our systems within 30 days.  
-- **Password** – Securely stored using AWS Cognito. We do not have access to your plain-text password.  
-- **Profile Picture (optional)** – If you upload a profile picture, it is stored securely on AWS S3 and is permanently deleted if you delete your account.
+- **Email Address** – Used to create and manage your account. We retain your email address for as long as your account is active. If you delete your account, your email address and associated data are permanently removed from our systems within 30 days.
+- **Password** – Securely stored and never accessible in plain text.  
+- **Profile Picture (optional)** – If you upload a profile picture, it is stored securely and is permanently deleted if you delete your account.
 - **Usage Data** – Anonymous analytics data (e.g., app usage statistics, crash reports, device type) to improve app performance.  
 
 ---
@@ -22,7 +22,7 @@ ChordVault (“we,” “our,” or “us”) values your privacy. This Privacy 
 ---
 
 ## 3. Data Storage & Security
-- Your data is securely stored on Amazon Web Services (AWS) infrastructure.  
+- Your data is securely stored on protected servers. 
 - Passwords are hashed and never stored in plain text.  
 - We use industry-standard encryption for data in transit and at rest.  
 
