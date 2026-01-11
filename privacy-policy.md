@@ -28,27 +28,42 @@ ChordVault (“we,” “our,” or “us”) values your privacy. This Privacy 
 
 ---
 
-## 4. Sharing Your Information
+### 4. Third-Party Services
+- ChordVault may use trusted third-party services (such as analytics and crash reporting tools) to help us understand app usage and improve performance. These services may collect limited, anonymous usage data in accordance with their own privacy policies.
+
+---
+
+## 5. Sharing Your Information
 - We do **not** sell your personal data.  
 - We may share information only if required by law, legal process, or to protect our rights.  
 
 ---
 
-## 5. Data Retention
+## 6. Data Retention
 - We retain personal data (such as your email address and profile picture) only as long as your account is active.
 - If you delete your account, all associated personal data will be permanently removed from our systems within 30 days, unless we are legally required to retain it for a longer period.
 - Usage data collected for analytics may be retained in anonymous form to improve app performance.
 
 ---
 
-## 6. Your Rights
+## 7. Your Rights
 - You may request to delete your account and associated data at any time.  
 - You can do this directly in the app or by contacting us at: **mobile.user.help@gmail.com**  
 - Once we receive your request, your personal data (including email address and profile picture) will be permanently deleted within 30 days, unless we are legally required to retain it.
 
 ---
 
-## 7. Changes to This Policy
-We may update this Privacy Policy from time to time. Updates will be posted in this document and inside the app.  
+## 8. Changes to This Policy
+- We may update this Privacy Policy from time to time. Updates will be posted in this document and inside the app.  
 
 ---
+
+## 9. Children’s Privacy
+- ChordVault is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you believe that a child has provided us with personal data, please contact us and we will take appropriate action to remove such information.
+
+---
+
+## 10. Contact Us
+- If you have any questions about this Privacy Policy or how your data is handled, please contact us at:  
+**mobile.user.help@gmail.com**
+
