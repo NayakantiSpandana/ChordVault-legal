@@ -10,6 +10,7 @@ ChordVault (“we,” “our,” or “us”) values your privacy. This Privacy 
 - **Email Address** – Used to create and manage your account. We retain your email address for as long as your account is active. If you delete your account, your email address and associated data are permanently removed from our systems within 30 days.
 - **Password** – Securely stored using industry-standard hashing and never accessible in plain text.  
 - **Profile Picture (optional)** – If you upload a profile picture, it is stored securely and is permanently deleted if you delete your account.
+
 **Note**: All information collected, including your email, password, and profile picture, is **linked to your account** and used solely for app functionality, including authentication, content access, and syncing across devices.
   
 ---
